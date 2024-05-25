@@ -7,7 +7,7 @@ const Home = () => {
   return (
 <div className='flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-white to-white'>
       <div className='mb-8'>
-        <h1 className='text-4xl font-bold text-blue-600 border-b-4 border-blue-600 pb-2'>Welcome to the Dashboard</h1>
+        <h1 className='text-4xl font-bold text-blue-600 border-b-4 border-blue-600 pb-2'>Selamat Datang di Dashboard</h1>
       </div>
       <div className='grid grid-cols-2 sm:grid-cols-4 gap-6 p-4'>
         <Button 
